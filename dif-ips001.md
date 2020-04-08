@@ -7,3 +7,5 @@ expenditures, should go through public/transparent communication channels such a
 a transparent Supervisor vote. 
 
 All decisions should be traceable to a discussion on Github and subsequent written approval by DIF Supervisors.
+
+Why?: Github allows us to automate MANY tasks via API and collaborate with many different avenues (developers) that are on this platform.   In addition to adding version control and traceability that is unbeatable any where else.
