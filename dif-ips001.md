@@ -1,6 +1,6 @@
 # Traceable Decisions
 
-* DIF Supervisors are accountable and electable by the network/MNO.
+DIF Supervisors are accountable and electable by the network/MNO.
 
 ## In the spirit of Opensource and open finance
 
@@ -10,8 +10,9 @@ a transparent Supervisor vote.
 
 * All decisions should be traceable to a discussion on Github and subsequent written approval by DIF Supervisors.
 
-Reason: Github allows us to automate MANY tasks via API and collaborate with many different avenues (developers) that are on this platform.   In addition to adding version control and traceability that is unbeatable any where else.
+# Reason: 
+Github allows us to automate MANY tasks via API and collaborate with many different avenues (developers) that are on this platform.   In addition to adding version control and traceability that is unbeatable any where else.
 
 
-Examples i would look to emulate: 
+# Examples i would look to emulate: 
 [Bloomber-Beta](https://github.com/Bloomberg-Beta)
