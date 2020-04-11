@@ -1,3 +1,5 @@
+#Traceable Decisions
+
 DIF Supervisors are accountable and electable by the network/MNO.
 
 In the spirit of Opensource and open finance
