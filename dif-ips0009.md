@@ -1,25 +1,24 @@
-# Outside collaborators (MNO) can use DIF-IPS as a way to communicate with the DIF and/or the Dash network on behalf of DIF
+## Outside collaborators (MNO) can use DIF-IPS as a way to communicate with the DIF and/or the Dash network on behalf of DIF
 
-## Any outside teams/collaborators can collaborate openly for free with the DIF via github.
 
-## As a mechanism to draw MNO attention to any action of the DIF,
+* Any outside teams/collaborators can collaborate openly for free with the DIF via github.
 
-If an outside party wants to submit an idea on governance to the DIF and wants to incorporate/approve the Change into the DIF
-via a MNO vote, 
+* **As a mechanism to draw MNO attention to any action of the DIF,** If an outside party wants to submit an idea on governance to the DIF and wants to incorporate/approve the Change into the DIF via a MNO vote.
 
-## any user can submit a DIF-IPS and collaborate with DIF supervisors openly via the Github Pull process
+* **any user can submit a DIF-IPS and collaborate with DIF supervisors openly via the Github Pull process**
 
-## and/or
+  ## and/or
 
-## spend the 5 Dash to submit their Github DIF-IPS proposal (with EXACT implentation verbiage) for a vote to the Dash DAO. 
+  * **spend the 5 Dash to submit their Github DIF-IPS proposal (with EXACT implentation verbiage) for a vote to the Dash DAO.** 
 
-The DIF will publicly reply to any such proposal on github for on the record response.  
-DIF will not be legally obligated to incorporate change if not possible, 
-but non implementation should be public with a reason why and voted upon publicly by supervisors.
+* The DIF will publicly reply to any such proposal on github for on the record response. 
 
-# The key here is tying a decision with tracaeble discussion on github between the DIF and Dash DAO, current DashCentral
-# proposal discussion/response is not effective.
+* **<u>DIF will not be legally obligated to incorporate change if not possible, but non implementation should be public with a reason why and voted upon publicly by supervisors.</u>**
 
-For any such implementation to happen, there MUST BE an actionable item, not just a complaint.
+The key here is tying a decision with tracaeble discussion on github between the DIF and Dash DAO, current Dash Central Proposal Discussion is not effective.
 
-For it to be actionable it must have some thought and discussion and laid out in a format that assigns action in detailed steps.
+
+#### For any such implementation to happen, there MUST BE an actionable item, not just a complaint.
+
+#### For it to be actionable it must have some thought and discussion and laid out in a format that assigns action in detailed steps.
+
